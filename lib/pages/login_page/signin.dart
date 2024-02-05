@@ -1,10 +1,10 @@
-import 'package:app_fin/home/added/detilsetext.dart';
-import 'package:app_fin/pages/login_page/butten.dart';
-import 'package:app_fin/pages/login_page/registerpage.dart';
+import 'package:app_finel_exam/home/added/detilsetext.dart';
+import 'package:app_finel_exam/pages/login_page/butten.dart';
+import 'package:app_finel_exam/pages/login_page/registerpage.dart';
 
-import 'package:app_fin/screens/home/home_screens.dart';
+import 'package:app_finel_exam/screens/home/home_screens.dart';
 //import '//package:app_fin/screens/dataList/add_data.dart'; // استيراد صفحة add_data
-import 'package:app_fin/sql/database_helper.dart';
+import 'package:app_finel_exam/sql/database_helper.dart';
 import 'package:flutter/material.dart';
 
 class LoginPage extends StatefulWidget {

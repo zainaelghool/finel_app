@@ -1,6 +1,6 @@
-import 'package:app_fin/screens/home/component/app_bar.dart';
-import 'package:app_fin/screens/home/component/buttons_buttom.dart';
-import 'package:app_fin/screens/home/component/categoris.dart';
+import 'package:app_finel_exam/screens/home/component/app_bar.dart';
+import 'package:app_finel_exam/screens/home/component/buttons_buttom.dart';
+import 'package:app_finel_exam/screens/home/component/categoris.dart';
 //import 'package:app_fin/screens/home/component/login_page.dart';
 //import 'package:app_finel/screens/home/component/app_bar.dart';
 //import 'package:app_finel/screens/home/component/categoris.dart';

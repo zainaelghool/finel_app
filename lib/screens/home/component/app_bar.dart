@@ -1,6 +1,6 @@
 //import 'package:app_fin/pages/login_page/signin.dart';
 //import 'package:app_fin/pages/services/auth/login_or_rigist.dart';
-import 'package:app_fin/pages/login_page/signin.dart';
+import 'package:app_finel_exam/pages/login_page/signin.dart';
 import 'package:flutter/material.dart';
 
 class appbar extends StatelessWidget {

@@ -1,6 +1,6 @@
-import 'package:app_fin/pages/login_page/butten.dart';
-import 'package:app_fin/pages/login_page/signin.dart';
-import 'package:app_fin/sql/database_helper.dart';
+import 'package:app_finel_exam/pages/login_page/butten.dart';
+import 'package:app_finel_exam/pages/login_page/signin.dart';
+import 'package:app_finel_exam/sql/database_helper.dart';
 
 import 'package:flutter/material.dart';
 

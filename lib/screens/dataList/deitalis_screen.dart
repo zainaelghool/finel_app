@@ -1,9 +1,9 @@
 //import 'package:app_fin/model/house.dart';
-import 'package:app_fin/model/house.dart';
-import 'package:app_fin/screens/dataList/components/buttons_buttom.dart';
+import 'package:app_finel_exam/model/house.dart';
+import 'package:app_finel_exam/screens/dataList/components/buttons_buttom.dart';
 //import 'package:app_fin/model/house.dart';
 //import 'package:app_fin/model/house.dart';
-import 'package:app_fin/screens/dataList/components/carouselimges.dart';
+import 'package:app_finel_exam/screens/dataList/components/carouselimges.dart';
 //import 'package:app_fin/screens/home/component/buttons_buttom.dart';
 import 'package:flutter/material.dart';
 

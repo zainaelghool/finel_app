@@ -1,4 +1,4 @@
-import 'package:app_fin/model/house.dart';
+import 'package:app_finel_exam/model/house.dart';
 //import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 //import 'package:flutter/widgets.dart';

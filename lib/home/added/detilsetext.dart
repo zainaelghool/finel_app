@@ -1,8 +1,8 @@
-import 'package:app_fin/pages/login_page/butten.dart';
+import 'package:app_finel_exam/pages/login_page/butten.dart';
 import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
-import 'package:app_fin/sql/database_helper.dart';
+import 'package:app_finel_exam/sql/database_helper.dart';
 import 'package:image_picker/image_picker.dart';
 import 'dart:convert';
 
